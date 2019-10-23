@@ -1,14 +1,4 @@
-// kk4036_hw9_q4.cpp THIS CODE DOES NOT RUN ON VISUAL STUDIO
-// Implement void oddsKeepEvensFlip (int arr[], int arrSize)
-// This function gets an array of integers arr and its local size arrSize.
-// When called, it should reorder the elements of arr so that
-// 1) All odd #s come before all the even #s
-// 2) The odd #s will keep their original relative order
-// 3) The even #s will be placed in a reversed order (relative to their original order)
-// e.g. arr = [5, 2, 11, 7, 6, 4]
-// after calling the function, arr = [5, 11, 7, 4, 6, 2]
 
-#include "pch.h"
 #include <iostream>
 using namespace std;
 
